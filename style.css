@@ -39,6 +39,11 @@ header {
   text-shadow:0 0 2px white, 0 0 5px white, 0 0 5px white;
 }
 
+h1 {
+  animation: rubberBand;
+  animation-duration: 2s;
+}
+
 main {
   background-color: #485461;
   grid-area: main;
