@@ -36,12 +36,22 @@ header {
   text-transform: uppercase;
   display: grid;
   place-items: center;
+  text-shadow:0 0 2px white, 0 0 5px white, 0 0 5px white;
 }
 
 main {
   background-color: #485461;
   grid-area: main;
   padding-top: 5vh;
+}
+
+img {
+  box-shadow: 0 1px 1px rgba(216, 216, 216, 0.11), 
+              0 2px 2px rgba(216, 216, 216, 0.11), 
+              0 4px 4px rgba(216, 216, 216, 0.11), 
+              0 8px 8px rgba(216, 216, 216, 0.11), 
+              0 16px 16px rgba(216, 216, 216, 0.11), 
+              0 32px 32px rgba(216, 216, 216, 0.11);
 }
 
 footer {
