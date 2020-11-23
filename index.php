@@ -59,6 +59,10 @@
   <title>faceBoom</title>
   <meta name="description" content="faceBoom est un script qui permet de centraliser vos images personnelles sur un serveur">
   <link rel="stylesheet" href="style.css">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 </head>
 <body>
 
